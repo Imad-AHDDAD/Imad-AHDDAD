@@ -1,56 +1,29 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/7d896c27-f2c9-48ff-9700-4b103f5d4341" width="100%"/>
+
+## MY STATS 🔥🔥
+
+<div align="center" width="100%">
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=Imad-AHDDAD&show_icons=true&theme=transparent&bg_color=eeeeee&text_color=3F547F&title_color=3F547F" />
+  <img src="https://streak-stats.demolab.com?user=Imad-AHDDAD&hide_border=false&background=eeeeee&sideNums=3F547F&currStreakLabel=3F547F&dates=3F547F&fire=127FC5&ring=127FC5&currStreakNum=3F547F&sideLabels=3F547F" />
 </div>
 
-<div id="badges" align="center">
+## MY LAST PROJECTS ✅✅
+<div width="100%">
+  <a href="https://github.com/Imad-AHDDAD/Most-Starred-GitHub-Repos-Android-App-clean-architecture">
+    <img width=90 src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/311dc94e-e1b5-42da-a679-73310bcf1f65" />
+  </a>
+  <a href="https://github.com/Imad-AHDDAD/wweather">
+    <img width=90 src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/a48fba6e-aa44-4e79-ba42-e7c65753c650" />
+  </a>
+</div>
+
+## HOW TO REACH ME 👌👌
+<div width="100%">
   <a href="https://www.linkedin.com/in/imad-ahddad-a2b5b7236/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/imada7ddad/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img width=50 src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/8d246fa6-3522-4c0b-9ba9-6d95f54c1ee3" />
   </a>
 </div>
 
-<h1 align="center">
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+##
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
-
-- :telescope: I’m Software Engineering Student At Cadi Ayyad University Marrakech.
-
-- :zap: In my free time, I read about developpement's technoligies.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-imad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imad-ahddad-a2b5b7236/)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
-
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imad-AHDDAD&theme=dark&background=000000)](https://github.com/Imad-AHDDAD)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imad-AHDDAD&layout=compact&theme=vision-friendly-dark)](https://github.com/Imad-AHDDAD)
-
+<img src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/5b038e0c-0a03-490e-8819-e3dfedd535af" width="100%"/>
