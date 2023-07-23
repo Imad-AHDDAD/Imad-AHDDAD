@@ -17,7 +17,7 @@
   </a>
 </div><br/>
 
-#### HOW TO REACH ME 👌👌
+#### FOLLOW ME 👌👌
 <div width="100%">
   <a href="https://www.linkedin.com/in/imad-ahddad-a2b5b7236/">
     <img width=30 src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/15d641c2-6a06-44fa-9552-17a95b6ccd0c" />
