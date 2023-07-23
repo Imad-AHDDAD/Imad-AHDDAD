@@ -1,4 +1,5 @@
-<img src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/7d896c27-f2c9-48ff-9700-4b103f5d4341" width="100%"/><br/>
+<img src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/bb1d095d-daf0-4386-93ba-9347d7f17567" width="100%"/><br/>
+
 
 ### MY STATS 🔥🔥
 <div align="center" width="100%">
@@ -9,22 +10,23 @@
 ### MY LAST PROJECTS ✅✅
 <div width="100%">
   <a href="https://github.com/Imad-AHDDAD/Most-Starred-GitHub-Repos-Android-App-clean-architecture">
-    <img width=90 src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/311dc94e-e1b5-42da-a679-73310bcf1f65" />
+    <img width=90 src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/1a5dba2e-f94d-4159-9b74-67182c75389e" />
   </a>
   <a href="https://github.com/Imad-AHDDAD/wweather">
-    <img width=90 src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/a48fba6e-aa44-4e79-ba42-e7c65753c650" />
+    <img width=90 src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/0614c1c4-e65f-4ea3-8417-bf51b26a82cc" />
   </a>
 </div><br/>
 
 #### HOW TO REACH ME 👌👌
 <div width="100%">
   <a href="https://www.linkedin.com/in/imad-ahddad-a2b5b7236/">
-    <img width=30 src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/8d246fa6-3522-4c0b-9ba9-6d95f54c1ee3" />
+    <img width=30 src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/15d641c2-6a06-44fa-9552-17a95b6ccd0c" />
   </a>
 </div>
 
+
 <br/>
 <br/>
 <br/>
 
-<img src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/5b038e0c-0a03-490e-8819-e3dfedd535af" width="100%"/>
+<img src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/725bc0a0-9435-48d0-bdf0-ad0af8f8a5ce" width="100%"/>
