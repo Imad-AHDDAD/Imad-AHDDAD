@@ -3,8 +3,8 @@
 ## MY STATS 🔥🔥
 
 <div align="center" width="100%">
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=Imad-AHDDAD&show_icons=true&theme=transparent&bg_color=eeeeee&text_color=3F547F&title_color=3F547F" />
-  <img src="https://streak-stats.demolab.com?user=Imad-AHDDAD&hide_border=false&background=eeeeee&sideNums=3F547F&currStreakLabel=3F547F&dates=3F547F&fire=127FC5&ring=127FC5&currStreakNum=3F547F&sideLabels=3F547F" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Imad-AHDDAD&show_icons=true&theme=transparent&bg_color=eeeeee&text_color=3F547F&title_color=3F547F" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Imad-AHDDAD&hide_border=false&background=eeeeee&sideNums=3F547F&currStreakLabel=3F547F&dates=3F547F&fire=127FC5&ring=127FC5&currStreakNum=3F547F&sideLabels=3F547F" />
 </div>
 
 ## MY LAST PROJECTS ✅✅
