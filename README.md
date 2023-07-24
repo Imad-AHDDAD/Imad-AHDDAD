@@ -8,14 +8,10 @@
 </div><br/>
 
 #### ➤ MY LAST PROJECTS ✅✅
-<div width="100%">
-  <a href="https://github.com/Imad-AHDDAD/Most-Starred-GitHub-Repos-Android-App-clean-architecture">
-    <img width=7% src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/1a5dba2e-f94d-4159-9b74-67182c75389e" />
-  </a>
-  <a href="https://github.com/Imad-AHDDAD/wweather">
-    <img width=7% src="https://github.com/Imad-AHDDAD/Imad-AHDDAD/assets/103340643/0614c1c4-e65f-4ea3-8417-bf51b26a82cc" />
-  </a>
-</div><br/>
+
+* Most Starred Github Repositories (Android App), <a href="https://github.com/Imad-AHDDAD/Most-Starred-GitHub-Repos-Android-App-clean-architecture">See</a>
+* WWeather (Android App), <a href="https://github.com/Imad-AHDDAD/wweather">See</a>
+
 
 #### ➤ FOLLOW ME 👌👌
 <div width="100%">
