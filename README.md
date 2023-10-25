@@ -10,7 +10,8 @@
 #### ➤ MY LAST PROJECTS ✅✅
 
 
-* Crypto Inf (Android App), <a href="https://github.com/Imad-AHDDAD/Crypto-Inf-android-app">See</a>
+* Aratt. (Android App), <a href="https://github.com/Imad-AHDDAD/aratt-android-app">See</a>
+* Crypto? (Android App), <a href="https://github.com/Imad-AHDDAD/Crypto-Inf-android-app">See</a>
 * Most Starred Github Repositories (Android App), <a href="https://github.com/Imad-AHDDAD/Most-Starred-GitHub-Repos-Android-App-clean-architecture">See</a>
 * WWeather (Android App), <a href="https://github.com/Imad-AHDDAD/wweather">See</a>
 
