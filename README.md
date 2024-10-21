@@ -8,6 +8,7 @@
 
 #### ➤ MY LAST PROJECTS ✅✅
 
+* My Pharmacy (Android App), <a href="https://play.google.com/store/apps/details?id=com.a7dev.pharmacy">Available  On Google Play Store</a>
 * Shufflit (Android App), <a href="https://play.google.com/store/apps/details?id=com.a7dev.shufflit">Available  On Google Play Store</a>
 * Aratt. (Android App), <a href="https://play.google.com/store/apps/details?id=com.a7dev.noteapp">Available  On Google Play Store</a>
 * Crypto? (Android App), <a href="https://github.com/Imad-AHDDAD/Crypto-Inf-android-app">See</a>
